@@ -1,0 +1,12 @@
+.landing {
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: black 1px 1px 1px;
+  position: relative;
+  background: url("./img/landing.jpeg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
